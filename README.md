@@ -7,13 +7,33 @@ Project submission for the `Global Travel Hackathon in Barcelona, by askliv team
 
 ## :books: Description
 
-* Hackathon topic you used: Accessibility and Community
-* The development tools used to build the project: [Kiwi UI (orbit)](https://orbit.kiwi/), [React](https://reactjs.org/), [Firebase](https://firebase.google.com)
-* SDKs used in the project;[TBF]
-* APIs used in the project;[TBF]
-* Any assets used in the project;[TBF]
-* Any libraries used in the project;[TBF]
-* Any components not created at the hackathon;[TBF]
+* Hackathon topic you used: 
+  * Accessibility 
+  * Community
+
+* The development tools used to build the project: 
+  * [Kiwi UI (orbit)](https://orbit.kiwi/), 
+  * [React](https://reactjs.org/), 
+  * [Firebase](https://firebase.google.com)
+  
+* SDKs used in the project;
+  * [Contentful](https://www.contentful.com/)
+  
+* APIs used in the project;
+  * [Contentful](https://www.contentful.com/)
+
+* Any assets used in the project;
+  * [Unsplash](https://unsplash.com/): For website images
+  * [Noun Project](https://thenounproject.com): For icons
+  
+* Any libraries used in the project;
+  * [React](https://reactjs.org/): To build the interface
+  * [Moment](https://momentjs.com/): To handle the datepicker
+  * [Orbit](https://orbit.kiwi/): UI library
+  * [Contentful](https://www.contentful.com/): CMS to handle destinations, categories and questionaires
+  
+* Any components not created at the hackathon;
+  * Authentication
 
 ## :hugs: Maintainers
 
@@ -24,22 +44,40 @@ List all the team members. For example:
 * [Ana Schwendler - anaschwendler](https://github.com/anaschwendler)
 
 
-## :tada: Why is this so awesome?[TBF]
+## :tada: Why is this so awesome?
 
 * Everyone knows someone that could benefit from a project that help show how to travel anywhere
 * The main goal of the tool i to include all people that were maybe not able to travel before
 
-## :hammer_and_wrench: Installation[TBF]
+## :hammer_and_wrench: Installation
 
-Write a short description how can other people run your project.
+1. Clone the project:
+
+```console
+$ git clone git@github.com:izebb/askliv.git
+```
+
+2. Run the installation:
+
+```
+$ npm install
+```
+
+3. Run the project locally:
+
+```console
+$ npm start
+```
+
+Then your project should be live at: [localhost:3000](localhost:3000)
 
 ## :bulb: Devstack
 
-* For UX/UI we decided to use the Kiwi UI definitions.
+* For UX/UI we decided to use the Kiwi UI definitions
 
-* For the app we used React.
+* For the app we used React
 
-* For the database we used Firebase.
+* For the database we used Firebase
 
 ## :warning: Licence
 
