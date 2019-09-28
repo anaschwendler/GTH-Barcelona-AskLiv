@@ -35,7 +35,9 @@ Write a short description how can other people run your project.
 
 ## :bulb: Devstack[TBF]
 
-Please, explain what technologies you have used.
+For UX/UI we decided to use the Kiwi UI definitions.
+For the app we used React.
+For the database we used Firebase.
 
 ## :warning: Licence[TBF]
 
