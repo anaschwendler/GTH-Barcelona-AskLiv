@@ -3,7 +3,7 @@ Project submission for the `Global Travel Hackathon in Barcelona, by askliv team
 
 **Allow people to be more confident when planning a trip.**
 
-![AskLiv](image.png)
+![AskLiv](logo.png)
 
 ## :🌎: Website
 
