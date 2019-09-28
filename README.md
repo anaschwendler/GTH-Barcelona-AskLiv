@@ -33,13 +33,13 @@ List all the team members. For example:
 
 Write a short description how can other people run your project.
 
-## :bulb: Devstack[TBF]
+## :bulb: Devstack
 
-For UX/UI we decided to use the Kiwi UI definitions.
+* For UX/UI we decided to use the Kiwi UI definitions.
 
-For the app we used React.
+* For the app we used React.
 
-For the database we used Firebase.
+* For the database we used Firebase.
 
 ## :warning: Licence
 
