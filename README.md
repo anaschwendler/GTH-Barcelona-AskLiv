@@ -3,7 +3,15 @@ Project submission for the `Global Travel Hackathon in Barcelona, by askliv team
 
 **Allow people to be more confident when planning a trip.**
 
-![Add a screenshot from your project. For example the main website page.](https://raw.githubusercontent.com/Global-Travel-Hackathon/GTH-Location-TeamName/master/screenshots/Global-Travel-Hackathon-image.png)[TBF]
+![AskLiv](image.png)
+
+## :🌎: Website
+
+askliv.app
+
+## :💻: Repository
+
+https://github.com/izebb/askliv
 
 ## :books: Description
 
