@@ -5,11 +5,11 @@ Project submission for the `Global Travel Hackathon in Barcelona, by askliv team
 
 ![AskLiv](logo.png)
 
-## :🌎: Website
+## :earth_americas: Website
 
 askliv.app
 
-## :💻: Repository
+## :computer: Repository
 
 https://github.com/izebb/askliv
 
